@@ -187,7 +187,7 @@ main {
 }
 
 
-/** CARRITO **/
+
 
 .contenedor-carrito {
     display: flex;
@@ -286,7 +286,7 @@ main {
     display: none;
 }
 
-/*** MEDIA QUERIES ***/
+
 
 @media screen and (max-width: 850px) {
     .contenedor-productos {
