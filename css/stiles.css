@@ -2,7 +2,7 @@
 
 :root {
     --clr-main: rgb(34, 138, 47);
-    --clr-main-light: rgb(178, 171, 206);
+    --clr-main-light: hwb(252 67% 19%);
     --clr-white: #ececec;
     --clr-gray: #e2e2e2;
     --clr-red: #961818;
