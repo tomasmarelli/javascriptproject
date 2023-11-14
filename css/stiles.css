@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
 
 :root {
-    --clr-main: #157421;
-    --clr-main-light: #b2abce;
+    --clr-main: rgb(34, 138, 47);
+    --clr-main-light: rgb(178, 171, 206);
     --clr-white: #ececec;
     --clr-gray: #e2e2e2;
     --clr-red: #961818;
@@ -187,7 +187,6 @@ main {
 }
 
 
-/** CARRITO **/
 
 .contenedor-carrito {
     display: flex;
@@ -286,7 +285,6 @@ main {
     display: none;
 }
 
-/*** MEDIA QUERIES ***/
 
 @media screen and (max-width: 850px) {
     .contenedor-productos {
